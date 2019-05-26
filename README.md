@@ -8,7 +8,7 @@ If there is something you'd like to be described in more detail feel free to rai
 
 * ???
 * Monitoring
-  * [Create performance baseline](https://github.com/tommysundling/CloudMethodology/wiki/Development%20Methodology/Create%20performance%20baseline.md)
+  * [Create performance baseline](https://github.com/tommysundling/CloudMethodology/wiki/Create-performance-baseline)
   * Setup continuos monitoring
   * Configure alerts for deviations from baseline
   * Take proactive actions on alerts
